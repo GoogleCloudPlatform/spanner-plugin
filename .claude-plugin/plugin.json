@@ -7,7 +7,7 @@
     "email": "data-cloud-ai-integrations@google.com"
   },
   "homepage": "https://cloud.google.com/spanner",
-  "repository": "https://github.com/gemini-cli-extensions/spanner",
+  "repository": "https://github.com/GoogleCloudPlatform/spanner-plugin",
   "license": "Apache-2.0",
   "userConfig": {
     "spanner_project": {
