@@ -65,8 +65,8 @@ The skills themselves are validated using the `skills-validate.yml` workflow.
 The primary maintainers for this repository are defined in the
 [`.github/CODEOWNERS`](.github/CODEOWNERS) file:
 
-*   `@gemini-cli-extensions/senseai-eco`
-*   `@gemini-cli-extensions/spanner-maintainers`
+*   `@GoogleCloudPlatform/senseai-eco`
+*   `@GoogleCloudPlatform/spanner-plugin-maintainers`
 
 ### Releasing
 
